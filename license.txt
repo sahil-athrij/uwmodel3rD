@@ -1,0 +1,11 @@
+Model Information:
+* title:	uw
+* source:	https://sketchfab.com/3d-models/uw-0f7246dcde534da48bca7515e8239b00
+* author:	sahilathrij (https://sketchfab.com/sahilathrij)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "uw" (https://sketchfab.com/3d-models/uw-0f7246dcde534da48bca7515e8239b00) by sahilathrij (https://sketchfab.com/sahilathrij) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
